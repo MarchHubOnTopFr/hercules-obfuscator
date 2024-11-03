@@ -173,7 +173,7 @@ lua src\hercules.lua my_script.lua --pipeline custom_pipeline.lua
 >[!NOTE]
 >Ensure that your custom pipeline file is **in the same directory** as `hercules.lua`.
 
-## Customization
+## Customizations
 
 You can modify or add new modules to the `modules/` directory to create additional layers of obfuscation. The `pipeline.lua` file controls the order of obfuscation steps.
 
